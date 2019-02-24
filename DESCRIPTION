@@ -1,0 +1,10 @@
+Package: mcpurrr
+Type: Package
+Title: multi-core purrr mappers
+Version: 0.1.0
+Authors@R: person("Tomasz", "Kalinowski", email = "tkalinow@asu.edu", role = c("aut", "cre"))
+Description: This is built on parallel::mclapply, so doesn't work on windows.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
